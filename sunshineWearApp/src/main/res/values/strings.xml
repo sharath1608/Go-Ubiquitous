@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SunshineWatchFace</string>
+    <string name="my_digital_name">Sunshine Digital</string>
+    <string name="weatherID_path">/weather-id</string>
+    <string name="weather_id">weatherId</string>
+    <string name="weather_asset">weatherAsset</string>
+    <string name="weather_image">weather_image</string>
+    <string name="max_temp">high_temp</string>
+    <string name="min_temp">low_temp</string>
+    <string name="short_desc">short_desc</string>
+</resources>
