@@ -7,7 +7,6 @@
         android:id="@+id/hour_text"
         android:layout_width="wrap_content"
         style="@style/hourMinuteStyle_round"
-        android:text="14"
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
         android:layout_marginStart="36dp"
@@ -37,7 +36,6 @@
     <TextView
         android:id="@+id/minute_text"
         android:layout_width="wrap_content"
-        android:text="48"
         style="@style/hourMinuteStyle_round"
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
@@ -57,7 +55,6 @@
     <TextView
         android:id="@+id/second_text"
         android:layout_width="wrap_content"
-        android:text="22"
         style="@style/secondStyle_round"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/hour_text"

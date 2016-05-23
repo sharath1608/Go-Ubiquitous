@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Asus1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_cafd3e74579386fb02fe991716a1e07701f79eef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_0c7e5d021b811f1be6b6907da653c113ca48d9c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_51fa6f18e18204e60a4fea5d92785ecd4af3e5bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_7658223bd850b5f18327786e0060a437546537a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_4131ddb496dd13bae3bf19313698b58b2a62b92f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_1cc862ac3380f14709b77a3fc808dd1dedf0af88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.3\5d506d4238dd8a1d1c8a1188ffb819a2f2eb286d\joda-time-2.9.3-no-tzdb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d506d4238dd8a1d1c8a1188ffb819a2f2eb286d">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\joda-time-2.9.3-no-tzdb_ed0b3c058bdd9e251c1ccb422c35dd867dd7e70a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_90a7b4baa4601a5d79a2ccc843ccf026eddfa439.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\com.google.android.support\wearable\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-1.4.0_cf20d6cc29f18da61af5964369e3848a5b7e9aed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="87714d074681677b8e418ee36b1d11cde180f78e">
+        <dex dex="C:\Users\Asus1\Desktop\master\Go-Ubiquitous\sunshineWearApp\build\intermediates\pre-dexed\debug\net.danlew-android.joda-2.9.3_70c4155338948d648f2d85562864c27ece799e5a.jar" />
+    </item>
+
+</items>

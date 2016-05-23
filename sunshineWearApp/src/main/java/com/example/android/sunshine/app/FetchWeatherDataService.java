@@ -45,7 +45,6 @@ public class FetchWeatherDataService extends WearableListenerService implements 
         mGoogleApiClient.connect();
         for (DataEvent event : dataEventBuffer) {
             if (event.getType() == DataEvent.TYPE_CHANGED) {
-                Log.v(getClass().getSimpleName(),"on data changed: path parse");
                 DataMap dataMap = DataMapItem.fromDataItem(event.getDataItem()).getDataMap();
                 String path = event.getDataItem().getUri().getPath();
                 if (path.equals(getString(R.string.weatherID_path))) {
@@ -59,10 +58,8 @@ public class FetchWeatherDataService extends WearableListenerService implements 
                     weatherIntent.putExtra(getString(R.string.max_temp),maxTemp);
                     weatherIntent.putExtra(getString(R.string.min_temp),minTemp);
                     weatherIntent.putExtra(getString(R.string.short_desc),weatherDesc);
-                    weatherIntent.putExtra("weatherId",weatherId);
                     weatherIntent.putExtra(getString(R.string.weather_image),byteArray);
                     weatherIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                    Log.v(getClass().getSimpleName()," In wear - Max:"+String.valueOf(maxTemp)+" min:"+String.valueOf(minTemp) + " Desc:"+weatherDesc);
                 }
             }
         }
